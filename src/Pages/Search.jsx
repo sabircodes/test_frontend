@@ -14,7 +14,7 @@ const Search = () => {
             {values.results.map(cloth => (
                             <div key={cloth._id} className='max-w-sm mt-8 px-4 py-2'>
                                 <div className='flex flex-col items-center border border-black rounded-xl bg-gray-950 shadow-lg shadow-gray-900 px-4 py-3  '>
-                                    <div><img className='object-cover' src={baseURL+'/uploads/'  + cloth.photos} /></div>
+                                    <div><img className='object-cover' src={cloth.photos} /></div>
                                     <div className='sm:text-sm sm:font-extralight lg:text-xl lg:font-normal '>{cloth.name}</div>
                                 </div>
 
