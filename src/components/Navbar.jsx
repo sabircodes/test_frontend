@@ -14,7 +14,7 @@ const Navbar = () => {
       {/* Logo */}
       <Link to={'/'} className="flex justify-start items-center gap-1.5 w-full">
         {/* Icon */}
-        <img src="/src/assets/logo.png" className=" w-22  h-20 rounded-full" alt="Navbar Icon" />
+        <img src="https://res.cloudinary.com/dikrf4hki/image/upload/v1707284774/logo_mgmnnn.png" className=" w-22  h-20 rounded-full" alt="Navbar Icon" />
 
         {/* <span className='font-bold text-xl text-primary font-Noto'>FABEENO</span> */}
       </Link>
