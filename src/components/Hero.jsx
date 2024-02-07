@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="relative max-h-screen overflow-y-hidden ">
     {/* Background Image */}
     <img
-      src="./src/assets/nbg.jpg"
+      src="https://res.cloudinary.com/dikrf4hki/image/upload/v1707284775/nbg_bwtabm.jpg"
       alt="fabric"
       className="w-full h-full object-container brightness-100 opacity-75 rounded-2xl "
     />
