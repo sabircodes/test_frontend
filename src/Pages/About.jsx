@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="flex  mt-10  px-2  justify-evenly " >
       <div className="">
-        <img className="lg: w-full lg:h-screen -z-2 relative lg: -top-8 lg:-left-20 opacity-50" src="./src/assets/hand.jpeg" />
+        <img className="lg: w-full lg:h-screen -z-2 relative lg: -top-8 lg:-left-20 opacity-50" src="https://res.cloudinary.com/dikrf4hki/image/upload/v1707284775/hand_d2a1ci.jpg" />
       </div>
       {/* <div className="absolute top-0 left-0 w-full h-full  opacity-50"></div> */}
       <div className='flex flex-col px-8 mx-2 w-full absolute z-4'>
